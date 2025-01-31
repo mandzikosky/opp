@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_number_sum_even", "Array_number_sum_even\Array_number_sum_even.csproj", "{5F8E5D7D-207A-4C91-BF5B-CC72F15AB386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8E5D7D-207A-4C91-BF5B-CC72F15AB386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8E5D7D-207A-4C91-BF5B-CC72F15AB386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8E5D7D-207A-4C91-BF5B-CC72F15AB386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8E5D7D-207A-4C91-BF5B-CC72F15AB386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B780C0B-FF93-41AA-AABE-E27CC7419796}
+	EndGlobalSection
+EndGlobal

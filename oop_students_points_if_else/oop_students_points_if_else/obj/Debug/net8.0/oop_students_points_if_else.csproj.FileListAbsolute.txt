@@ -1,0 +1,14 @@
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\bin\Debug\net8.0\oop_students_points_if_else.exe
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\bin\Debug\net8.0\oop_students_points_if_else.deps.json
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\bin\Debug\net8.0\oop_students_points_if_else.runtimeconfig.json
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\bin\Debug\net8.0\oop_students_points_if_else.dll
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\bin\Debug\net8.0\oop_students_points_if_else.pdb
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.AssemblyInfoInputs.cache
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.AssemblyInfo.cs
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.csproj.CoreCompileInputs.cache
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.dll
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\refint\oop_students_points_if_else.dll
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.pdb
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\oop_students_points_if_else.genruntimeconfig.cache
+C:\Users\mandz\source\repos\oop_students_points_if_else\oop_students_points_if_else\obj\Debug\net8.0\ref\oop_students_points_if_else.dll

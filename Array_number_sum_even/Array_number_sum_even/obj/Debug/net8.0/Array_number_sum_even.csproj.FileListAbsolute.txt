@@ -1,0 +1,14 @@
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\bin\Debug\net8.0\Array_number_sum_even.exe
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\bin\Debug\net8.0\Array_number_sum_even.deps.json
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\bin\Debug\net8.0\Array_number_sum_even.runtimeconfig.json
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\bin\Debug\net8.0\Array_number_sum_even.dll
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\bin\Debug\net8.0\Array_number_sum_even.pdb
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.AssemblyInfoInputs.cache
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.AssemblyInfo.cs
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.csproj.CoreCompileInputs.cache
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.dll
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\refint\Array_number_sum_even.dll
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.pdb
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\Array_number_sum_even.genruntimeconfig.cache
+C:\Users\mandz\source\repos\Array_number_sum_even\Array_number_sum_even\obj\Debug\net8.0\ref\Array_number_sum_even.dll

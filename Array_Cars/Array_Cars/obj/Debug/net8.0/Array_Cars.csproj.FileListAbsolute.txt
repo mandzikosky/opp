@@ -1,0 +1,14 @@
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\bin\Debug\net8.0\Array_Cars.exe
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\bin\Debug\net8.0\Array_Cars.deps.json
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\bin\Debug\net8.0\Array_Cars.runtimeconfig.json
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\bin\Debug\net8.0\Array_Cars.dll
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\bin\Debug\net8.0\Array_Cars.pdb
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.AssemblyInfoInputs.cache
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.AssemblyInfo.cs
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.csproj.CoreCompileInputs.cache
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.dll
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\refint\Array_Cars.dll
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.pdb
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\Array_Cars.genruntimeconfig.cache
+C:\Users\mandz\source\repos\Array_Cars\Array_Cars\obj\Debug\net8.0\ref\Array_Cars.dll

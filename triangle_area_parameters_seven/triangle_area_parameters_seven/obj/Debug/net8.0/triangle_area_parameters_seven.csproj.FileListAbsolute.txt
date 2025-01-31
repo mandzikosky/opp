@@ -1,0 +1,14 @@
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\bin\Debug\net8.0\triangle_area_parameters_seven.exe
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\bin\Debug\net8.0\triangle_area_parameters_seven.deps.json
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\bin\Debug\net8.0\triangle_area_parameters_seven.runtimeconfig.json
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\bin\Debug\net8.0\triangle_area_parameters_seven.dll
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\bin\Debug\net8.0\triangle_area_parameters_seven.pdb
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.AssemblyInfoInputs.cache
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.AssemblyInfo.cs
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.csproj.CoreCompileInputs.cache
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.dll
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\refint\triangle_area_parameters_seven.dll
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.pdb
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\triangle_area_parameters_seven.genruntimeconfig.cache
+C:\Users\mandz\source\repos\triangle_area_parameters_seven\triangle_area_parameters_seven\obj\Debug\net8.0\ref\triangle_area_parameters_seven.dll

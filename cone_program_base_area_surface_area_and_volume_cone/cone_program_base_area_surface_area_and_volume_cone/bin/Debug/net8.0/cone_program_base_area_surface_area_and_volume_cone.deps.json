@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cone_program_base_area_surface_area_and_volume_cone/1.0.0": {
+        "runtime": {
+          "cone_program_base_area_surface_area_and_volume_cone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cone_program_base_area_surface_area_and_volume_cone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

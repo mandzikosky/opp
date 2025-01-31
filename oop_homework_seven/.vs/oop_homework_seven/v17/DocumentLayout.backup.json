@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mandz\\source\\repos\\oop_homework_seven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DADD567-D9B0-47F0-9FFB-E13F4425B6FF}|oop_homework_seven\\oop_homework_seven.csproj|c:\\users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DADD567-D9B0-47F0-9FFB-E13F4425B6FF}|oop_homework_seven\\oop_homework_seven.csproj|solutionrelative:oop_homework_seven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DADD567-D9B0-47F0-9FFB-E13F4425B6FF}|oop_homework_seven\\oop_homework_seven.csproj|c:\\users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DADD567-D9B0-47F0-9FFB-E13F4425B6FF}|oop_homework_seven\\oop_homework_seven.csproj|solutionrelative:oop_homework_seven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\Book.cs",
+              "RelativeDocumentMoniker": "oop_homework_seven\\Book.cs",
+              "ToolTip": "C:\\Users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\Book.cs",
+              "RelativeToolTip": "oop_homework_seven\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:37:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\Program.cs",
+              "RelativeDocumentMoniker": "oop_homework_seven\\Program.cs",
+              "ToolTip": "C:\\Users\\mandz\\source\\repos\\oop_homework_seven\\oop_homework_seven\\Program.cs",
+              "RelativeToolTip": "oop_homework_seven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:36:59.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\bin\Debug\net8.0\oop_seven_zadaca_one.exe
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\bin\Debug\net8.0\oop_seven_zadaca_one.deps.json
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\bin\Debug\net8.0\oop_seven_zadaca_one.runtimeconfig.json
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\bin\Debug\net8.0\oop_seven_zadaca_one.dll
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\bin\Debug\net8.0\oop_seven_zadaca_one.pdb
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.AssemblyInfoInputs.cache
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.AssemblyInfo.cs
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.csproj.CoreCompileInputs.cache
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.dll
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\refint\oop_seven_zadaca_one.dll
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.pdb
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\oop_seven_zadaca_one.genruntimeconfig.cache
+C:\Users\mandz\source\repos\oop_seven_zadaca_one\oop_seven_zadaca_one\obj\Debug\net8.0\ref\oop_seven_zadaca_one.dll
